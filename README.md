@@ -9,3 +9,6 @@ Simplemente debes habilitar una carpeta pública en cualquier servicio, Drive, D
 
 Después, solo debes seguir las instrucciones que se encuentran en el [CONTRIBUTING.md](https://github.com/ngVenezuela/ng-biblioteca/blob/master/CONTRIBUTING.md) ¡Y listo! 😎 
 
+## ¿Donde están los libros? 🙁 📚
+Todos los aportes están en `BIBLIOTECA.md`, [haz click acá para ir más rápido ⚡ ](https://github.com/ngVenezuela/ng-biblioteca/blob/master/BIBLIOTECA.md)
+
